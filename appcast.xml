@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AcePrompt</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 06 Jul 2026 13:50:23 +0530</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/buildermonk/acepromptai/releases/download/v1.1.0/AcePrompt-1.1.0.dmg" length="3882257" type="application/octet-stream" sparkle:edSignature="m3u5J9fsqSkX5LCQWn4hj+HfHZfkTwk/ZuuE9GeERY9aTDPaRzsuf2wQUtGCJPO6OU8gdkIr0eX5zHB8N1O7AQ=="/>
+        </item>
+    </channel>
+</rss>
