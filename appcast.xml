@@ -3,6 +3,14 @@
     <channel>
         <title>AcePrompt</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Thu, 09 Jul 2026 20:08:38 +0530</pubDate>
+            <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/buildermonk/acepromptai/releases/download/v1.1.2/AcePrompt-1.1.2.dmg" length="3933086" type="application/octet-stream" sparkle:edSignature="2ns8ODK/kEA0Nd35UK35HmJM826a86E40ou8irB/sCtIWmWTWkmthhQdfnlBV/X23p2YNNLBxOLbFLk6OkbiCg=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Mon, 06 Jul 2026 17:17:02 +0530</pubDate>
             <sparkle:version>1.1.1</sparkle:version>
