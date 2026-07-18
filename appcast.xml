@@ -3,6 +3,14 @@
     <channel>
         <title>AcePrompt</title>
         <item>
+            <title>1.1.9</title>
+            <pubDate>Sun, 19 Jul 2026 00:33:11 +0530</pubDate>
+            <sparkle:version>1.1.9</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/buildermonk/acepromptai/releases/download/v1.1.9/AcePrompt-1.1.9.dmg" length="3985616" type="application/octet-stream" sparkle:edSignature="MyV7jbG82+KM10WNs4ML9M9B6Sl35PC9bOunw1W7R6OVQpkNVW79TYmFksGp46WQJdDNZ8tMcF0clsZXeaGaDw=="/>
+        </item>
+        <item>
             <title>1.1.8</title>
             <pubDate>Mon, 13 Jul 2026 16:50:15 +0530</pubDate>
             <sparkle:version>1.1.8</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/buildermonk/acepromptai/releases/download/v1.1.7/AcePrompt-1.1.7.dmg" length="3958744" type="application/octet-stream" sparkle:edSignature="hftefvSdBXSAjg/Yb/leeZbwMXtzowJ3pPV8tjoboypFSZA3TSMzgvvFJfKFJC5jsdYZSHMBVqaJ4EgYH2yxBA=="/>
-        </item>
-        <item>
-            <title>1.1.5</title>
-            <pubDate>Sun, 12 Jul 2026 13:24:43 +0530</pubDate>
-            <sparkle:version>1.1.5</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/buildermonk/acepromptai/releases/download/v1.1.5/AcePrompt-1.1.5.dmg" length="3958142" type="application/octet-stream" sparkle:edSignature="A7W3kbVbqj1kn+HG2zbFjNHuw1JuinwKxWHi9pZt+wiJfj/OXNVTJ+OhY2R4f4wrXF0TOYjQ8WA4AYNC7qf+CQ=="/>
         </item>
     </channel>
 </rss>
